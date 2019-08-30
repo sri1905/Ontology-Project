@@ -1,0 +1,100 @@
+<?xml version="1.0">
+<!DOCTYPE All_Things SYSTEM "All_Things.dtd">
+<All_Things>
+	
+	<Tangible>
+		<Living>
+			<Mobile>
+				<Human>
+					<word translation="a limb of one's own body , one's own body , limb or body in the strict (not metaphorical) sense">svANga</word>
+					<word translation="an owner , proprietor , master , lord or owner of (gen. loc. or  comp.)">svAmin</word>
+					<word translation="a man of one's own people or tribe , a kinsman , relative , relation , friend">sva</word>
+					<word translation="a protector , defender">trA</word>
+					<word translation="a creditor">uttamarRa</word>
+					<word translation="a man who settles on the soil , a peasant , working man , agriculturist , man of the third class or caste">vESya</word>
+					<word translation="the members of a family , ancestors or descendants">vaMSya</word>
+					<word translation="a friend">vahati</word>
+				</Human>
+				<Fauna>
+				</Fauna>
+			</Mobile>
+			<Immobile>
+				<Flora>
+					<word translation="grass , herb , any gramineous plant , blade of grass">tfRa</word>
+					<word translation="forest">vana</word>
+					<word translation="a , forest-tree (esp. a large tree bearing fruit apparently without blossoms , as several species of the fig , the jack tree , but also applied to any tree)">vanaspati</word>
+					<word translation="a bamboo , reed , cane">veRu</word>
+					<word translation="a tree, (esp.) any tree bearing visible flowers and fruit; but also applied to any tree and other plants">vfkza</word>
+				</Flora>
+			</Immobile>
+		</Living>
+		<NonLiving>
+			<Natural>
+				<word translation="" water-receptacle " , a cloud ; river , sea ; the ocean">udaDi</word>
+				<word translation="water">udaka</word>
+				<word translation="of a river and the adjacent district">varRu</word>
+				<word translation="of 19 bricks used for building the sacrificial altar">vayasya</word>
+			</Natural>
+			<ManMade>
+				<word translation="an under garment">upasaMvyAna</word>
+				<word translation="shelter from wind">vAtatrARa</word>
+				<word translation="the vīṇā or Indian lute (an instrument of the guitar kind , supposed to have been invented by nārada q.v. , usually having seven wires or strings raised upon nineteen frets or supports fixed on a long rounded board , towards the ends of which are two large gourds ; its compass is said to be two octaves , but it has many varieties according to the number of strings )">vIRA</word>
+				<word translation="ordure , excrement">varcaska</word>
+				<word translation="a dwelling-place , house , residence , abode or seat">vasati</word>
+				<word translation="profit from lending money, usury , interest">vfdDi</word>
+			</ManMade>
+		</NonLiving>
+	</Tangible>
+
+	<Intangible>
+		<ActionDenoter>
+			<word translation="making (a woman) one's own , marrying">svakaraRa</word>
+			<word translation="approaching or undertaking anything on that account">tadarTa.kramaRa</word>
+			<word translation="accomplishing that">tatsADukArin</word>
+			<word translation="the act of rising (of a star) , ascending">udgamana</word>
+			<word translation="the act of giving out , emitting , shedding (e.g. tears)">udvamana</word>
+			<word translation="raising , elevation">udyamana</word>
+			<word translation="longing or wishing for , eagerly desirous">unmanas</word>
+			<word translation="to give in addition, add to give, grant , offer">upadA</word>
+			<word translation="excogitated , invented , found out">upajYAta</word>
+			<word translation="the art of persuading coaxing">upamantraRa</word>
+			<word translation="standing above">uparisTa</word>
+			<word translation="agreeing together , agreement">upasaMvAda</word>
+			<word translation="sprinkled with">upasikta</word>
+			<word translation="the taking a wife , marrying">upayamana</word>
+			<word translation="any act tending to a desired object">upayoga</word>
+			<word translation="scattered , sown , planted , put in the ground ">upta</word>
+			<word translation="arising , birth , production , origin">utpatti</word>
+			<word translation="raising up , lifting up">utsaYjana</word>
+			<word translation="sown with">vApa</word>
+			<word translation="warding off , restraining , resisting , opposing">vAraRa</word>
+			<word translation="staying , abiding , dwelling , living , inhabiting">vAsin</word>
+			<word translation="to be destroyed or annihilated">vaDya</word>
+			<word translation="excluding avoiding , leaving , abandoning">varjana</word>
+			<word translation="separation , partition , division , distinction , modification">viBakti</word>
+			<word translation="shaking , agitation">viDUnana</word>
+			<word translation="Commanding or directing a subordinate">viDi</word>
+			<word translation="distinguishing , discriminative , specifying , qualifying">viSezaRa</word>
+			<word translation="paying off , discharge (of a debt)">vigaRana</word>
+			<word translation="change of form or nature , alteration or deviation from any natural state , transformation , modification , change (esp. for the worse) of bodily or mental condition">vikAra</word>
+			<word translation="change , alteration , modification , variation , changed condition (of body or mind)">vikfti</word>
+			<word translation="difference of opinion. dissent , disagreement">vimati</word>
+			<word translation=""></word>
+			<word translation=""></word>
+			<word translation=""></word>
+			<word translation=""></word>
+			<word translation=""></word>
+			<word translation=""></word>
+			<word translation=""></word>
+			<word translation=""></word>
+			<word translation=""></word>
+		</ActionDenoter>
+
+		<Modifier>
+		</Modifier>
+
+		<Attribute>
+		</Attribute	
+	</Intangible>
+
+</All_Things>

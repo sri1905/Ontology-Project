@@ -1,0 +1,26 @@
+<!DOCTYPE All_Things [
+
+	<!ELEMENT All_Things	(Tangible, Intangible)>
+
+	<!ELEMENT Tangible		(Living, NonLiving)>
+	<!ELEMENT Living		(Mobile, Immobile)>
+	<!ELEMENT Mobile		(Human, Fauna)>
+	<!ELEMENT Immobile		(Flora)>
+	<!ELEMENT Human 		(word*)>
+	<!ELEMENT Flora 		(word*)>
+	<!ELEMENT Fauna 		(word*)>
+	<!ELEMENT NonLiving		(Natural, ManMade)>
+	<!ELEMENT Natural 		(word*)>
+	<!ELEMENT ManMade 		(word*)>
+
+	<!ELEMENT Intangible	(ActionDenoter, Modifier, Attribute)>
+	<!ELEMENT ActionDenoter	(word*)>
+	<!ELEMENT Modifier		(word*)>
+	<!ELEMENT Attribute 	(Comparator, StateOfBeing)>
+	<!ELEMENT Comparator 	(word*)>
+	<!ELEMENT StateOfBeing 	(word*)>
+
+	<!ELEMENT word	(#PCDATA)>
+	<!ATTLIST word translation CDATA #REQUIRED>
+
+]>

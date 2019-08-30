@@ -1,0 +1,11 @@
+Select a set of about a hundred Pāṇinian semantic conditions used in either the Dhātupāṭha or in the Aṣṭādhyāyī and construct a formal semantic network. Investigate various existing formal semantic networks and select one to use as the model or framework for your network of Pāṇinian semantic conditions.  The result should be a text-file in a structured machine-readable format containing formalized entries in the semantic network accompanied by a formal description of the structure.  The document may use XML with a DTD or Schema, or database-readable delimited data-files with an accompanying structure.
+
+
+Prepare a fifteen page paper describing you work.  At the beginning of your paper, describe the set of semantic conditions you selected and the structure of their relations.  Next describe the networks you investigated and present an argument for why you chose the one you did for the set of semantic conditions you selected and, if you needed to modify it in some way, explain why and justify your modifications.  In the body of your paper, describe and present examples of your network.  In your conclusion, evaluate the suitability of the framework for the set of semantic conditions you chose, describing conditions for which it fit well and those for which it seemed unsuitable.
+
+
+
+
+The format of your paper should be as follows: A4 size paper, double-spaced lines for normal text, single-spaced for lists and other insets, 12 point type with 1 inch margins
+
+Your paper is due by the end of exam period, 11:59pm, Monday, 29 April by PDF uploaded to Moodle.
