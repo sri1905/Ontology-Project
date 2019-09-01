@@ -16,11 +16,12 @@
 	<!ELEMENT Intangible	(ActionDenoter, Modifier, Attribute)>
 	<!ELEMENT ActionDenoter	(word*)>
 	<!ELEMENT Modifier		(word*)>
-	<!ELEMENT Attribute 	(Comparator, StateOfBeing)>
+	<!ELEMENT Attribute 	(Aspect, Comparator, StateOfBeing)>
+	<!ELEMENT Aspect	 	(word*)>
 	<!ELEMENT Comparator 	(word*)>
 	<!ELEMENT StateOfBeing 	(word*)>
 
-	<!ELEMENT word	(#PCDATA)>
+	<!ELEMENT word			(#PCDATA)>
 	<!ATTLIST word translation CDATA #REQUIRED>
 
 ]>

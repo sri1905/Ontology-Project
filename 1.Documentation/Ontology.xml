@@ -58,8 +58,10 @@
 			<word translation="to give in addition, add to give, grant , offer">upadA</word>
 			<word translation="excogitated , invented , found out">upajYAta</word>
 			<word translation="the art of persuading coaxing">upamantraRa</word>
+			<word translation="compared , illustrated by comparison">upamita</word>
 			<word translation="standing above">uparisTa</word>
 			<word translation="agreeing together , agreement">upasaMvAda</word>
+			<word translation="the act of placing upon , accumulation">upasamADAna</word>
 			<word translation="sprinkled with">upasikta</word>
 			<word translation="the taking a wife , marrying">upayamana</word>
 			<word translation="any act tending to a desired object">upayoga</word>
@@ -79,22 +81,68 @@
 			<word translation="change of form or nature , alteration or deviation from any natural state , transformation , modification , change (esp. for the worse) of bodily or mental condition">vikAra</word>
 			<word translation="change , alteration , modification , variation , changed condition (of body or mind)">vikfti</word>
 			<word translation="difference of opinion. dissent , disagreement">vimati</word>
-			<word translation=""></word>
-			<word translation=""></word>
-			<word translation=""></word>
-			<word translation=""></word>
-			<word translation=""></word>
-			<word translation=""></word>
-			<word translation=""></word>
-			<word translation=""></word>
-			<word translation=""></word>
+			<word translation="known , understood , learnt , perceived">vidita</word>
 		</ActionDenoter>
 
 		<Modifier>
+			<word translation="little , small , short">stoka</word>
+			<word translation="very salutary or beneficial">suhita</word>
+			<word translation="easy to be done , easy for (gen.) or to (inf.)">sukara</word>
+			<word translation="not fixed , not permanent (referring to a limb of one's own body)">svANga.aDruva</word>
+			<word translation="it is to be crossed">tArya</word>
+			<word translation="proceeding well , successful progress">tAyana</word>
+			<word translation="accustomed to that">tacCIla</word>
+			<word translation="progressive , young , tender , juvenile">taruRa</word>
+			<word translation="bent or turned upwards , elevated , lifted up , raised , high , tall , prominent , projecting , lofty">unnata</word>
+			<word translation="the being accustomed to that">tAcCIlya</word>
+			<word translation="not everlasting, transient (with respect to outward appearance, exterior, form, figure, shape, color)">varRa.anitya</word>
+			<word translation="earliest , primary , original , prior , former (with respect to age, youth)">vayas.praTama</word>
+			<word translation="division , part , portion">viDA</word>
+			<word translation="several or successive order or series , distributiveness , repetition">vIpsA</word>
 		</Modifier>
 
 		<Attribute>
+			<Aspect>
+				<word translation="one's own cunning or magical art or skill">sva.mAyA</word>
+				<word translation="one's own form or shape , the form or shape of (gen. or  comp.)">svarUpa</word>
+				<word translation="tone in recitation    (either high or low) , accent , a note of the musical scale">svara</word>
+				<word translation="outward appearance , exterior , form , figure , shape , colour">varRa</word>
+				<word translation="stoppage of rain , drought">varzapratibanDa</word>
+				<word translation="price , value">vasna</word>
+				<word translation="vigorous age , youth , prime of life , any period of life , age">vayas</word>
+				<word translation="knowledge , true or sacred knowledge or lore , knowledge of ritual">veda</word>
+				<word translation="feeling , sensation">vedanA</word>
+				<word translation="to be (or being) distinguished">viBajya</word>
+				<word translation="characteristic difference , peculiar mark , special property , speciality , peculiarity">viSeza</word>
+				<word translation="to be (or being) distinguished or qualified or particularized">viSezya</word>
+				<word translation="a separate division , class , set , multitude of similar things (animate or inanimate) , group , company , family , party , side">varga</word>
+				<word translation="profession , maintenance , subsistence , livelihood">vftti</word>
+			</Aspect>
+
+			<Comparator>
+				<word translation="the having that meaning , sameness of meaning">tAdarTya</word>
+				<word translation="on that account , with that object , for that end , therefore">tadarTa</word>
+				<word translation="having the same qualities">tadDarma</word>
+				<word translation="equal to , of the same kind or class or number or value , similar , comparable , like">tulya</word>
+				<word translation="comparison , resemblance , equality , similarity">upamA</word>
+				<word translation="the object with which anything is compared">upamAna</word>
+			</Comparator>
+
+			<StateOfBeing>
+				<word translation="ease , easiness , comfort , prosperity , pleasure , happiness">sukha</word>
+				<word translation="self-dependence , independence , self-will , freedom">svatantra</word>
+				<word translation="successful by self-dependence">svatantra.prayojaka</word>
+				<word translation="darkness , gloom">tamas</word>
+				<word translation="sickness , disease , hurt">upatApa</word>
+				<word translation="future time">uttarakAla</word>
+				<word translation="change , modification , alteration , disfigurement , abnormal condition , changed state">vEkfta</word>
+				<word translation="enmity , hostility , animosity , grudge , quarrel or feud with">vEra</word>
+				<word translation="boldness , immodesty , shamelessness">vEyAtya</word>
+			</StateOfBeing>
 		</Attribute	
 	</Intangible>
 
 </All_Things>
+
+
+
