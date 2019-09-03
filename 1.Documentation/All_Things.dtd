@@ -13,13 +13,13 @@
 	<!ELEMENT Natural 		(word*)>
 	<!ELEMENT ManMade 		(word*)>
 
-	<!ELEMENT Intangible	(ActionDenoter, Modifier, Attribute)>
-	<!ELEMENT ActionDenoter	(word*)>
+	<!ELEMENT Intangible		(ActionDenoter, Modifier, Attribute)>
+	<!ELEMENT ActionDenoter		(word*)>
 	<!ELEMENT Modifier		(word*)>
-	<!ELEMENT Attribute 	(Aspect, Comparator, StateOfBeing)>
+	<!ELEMENT Attribute 		(Aspect, Comparator, StateOfBeing)>
 	<!ELEMENT Aspect	 	(word*)>
-	<!ELEMENT Comparator 	(word*)>
-	<!ELEMENT StateOfBeing 	(word*)>
+	<!ELEMENT Comparator 		(word*)>
+	<!ELEMENT StateOfBeing 		(word*)>
 
 	<!ELEMENT word			(#PCDATA)>
 	<!ATTLIST word translation CDATA #REQUIRED>
