@@ -7,7 +7,7 @@ Prepare a fifteen page paper describing you work.
 
 2.Next describe the networks you investigated and present an argument for why you chose the one you did for the set of semantic conditions you selected and, if you needed to modify it in some way, explain why and justify your modifications.  
 
-3.In the body of your paper, describe and present examples of your network.  
+3.In the body of your paper, describe and present examples of your network.   
 
 4.In your conclusion, evaluate the suitability of the framework for the set of semantic conditions you chose, describing conditions for which it fit well and those for which it seemed unsuitable.
 
